@@ -102,6 +102,7 @@ def Congruencia(p, q):
 
 def DecodificaBloco(list, d, n):
 
+    print("\nA chave d é ", d)
     decodificado = []
 
     for x in range(len(list)):
