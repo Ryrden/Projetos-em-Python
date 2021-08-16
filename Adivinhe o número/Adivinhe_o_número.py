@@ -1,6 +1,5 @@
 import random as rd
 
-
 class Adivinhe:
 
     def __init__(self):
